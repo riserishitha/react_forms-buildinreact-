@@ -1,0 +1,20 @@
+form{
+    background-color: rgba(0, 0, 0, 0.39);
+    text-align: center;
+    width: 550px;
+    margin-left: 30%;
+    align-items: center;
+    border-radius:20px ;
+    justify-content: center;
+}
+input{
+    width: 400px;
+    height: 40px;
+    font-size: 1.25rem;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+}
